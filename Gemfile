@@ -46,7 +46,7 @@ gem 'bulma-rails', '~> 0.7.5'
 gem 'simple_form', '~> 4.1'
 
 # Flexible authentication solution for Rails with Warden
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 
 
 group :development, :test do
